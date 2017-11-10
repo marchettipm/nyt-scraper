@@ -1,1 +1,1 @@
-# nyt-scraper
+# nyt-react
